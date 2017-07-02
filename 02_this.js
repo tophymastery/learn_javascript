@@ -13,6 +13,8 @@
 // 3
 // BUT: If run below in node execution (node 02_this.js) it return {}
 // console.log(this);
+// var shortFunc = () => console.log(this);
+// shortFunc();
 
 // 4
 // Run below command in browser it return window
